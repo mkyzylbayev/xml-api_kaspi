@@ -1,1 +1,399 @@
-<?xml version="1.0" encoding="UTF-8"?><kaspi_catalog><company>My Company</company><merchantid>12345</merchantid></kaspi_catalog>
+<?xml version="1.0" encoding="utf-8"?>
+<kaspi_catalog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="kaspiShopping" date="2026-09-06 12:49" xsi:schemaLocation="kaspiShopping http://kaspi.kz/kaspishopping.xsd">
+	<company>ТОО "Olgar (Олгар)"</company>
+	<merchantid>30306059</merchantid>
+	<offers>
+		<offer sku="1115661_X_6000, L">
+			<model>ФЕЛЬДБЕРГ 3IN1 JKT W</model>
+			<brand>JACK WOLFSKIN</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="2"/>
+			</availabilities>
+			<price>158400</price>
+		</offer>
+		<offer sku="1115661_X_6000, M">
+			<model>ФЕЛЬДБЕРГ 3IN1 JKT W</model>
+			<brand>JACK WOLFSKIN</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="3"/>
+			</availabilities>
+			<price>158400</price>
+		</offer>
+		<offer sku="1115661_X_6000, S">
+			<model>ФЕЛЬДБЕРГ 3IN1 JKT W</model>
+			<brand>JACK WOLFSKIN</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="6"/>
+			</availabilities>
+			<price>158400</price>
+		</offer>
+		<offer sku="1115661_X_6000, XL">
+			<model>ФЕЛЬДБЕРГ 3IN1 JKT W</model>
+			<brand>JACK WOLFSKIN</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>158400</price>
+		</offer>
+		<offer sku="1115661_X_6000, XS">
+			<model>ФЕЛЬДБЕРГ 3IN1 JKT W</model>
+			<brand>JACK WOLFSKIN</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="3"/>
+			</availabilities>
+			<price>158400</price>
+		</offer>
+		<offer sku="4036723_X_6069, 26">
+			<model>POLAR BEAR TEXAPORE HIGH VC K</model>
+			<brand>JACK WOLFSKIN</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>44000</price>
+		</offer>
+		<offer sku="4036723_X_6069, 27">
+			<model>POLAR BEAR TEXAPORE HIGH VC K</model>
+			<brand>JACK WOLFSKIN</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>44000</price>
+		</offer>
+		<offer sku="ABYZT02259_X_10, L">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_10, M">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_10, S">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_10, XL">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_10, XS">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_10, XXL">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_18314, L">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_18314, M">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_18314, S">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_18314, XL">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_18314, XS">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="3"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_18314, XXL">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_34058, L">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_34058, M">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_34058, S">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_34058, XL">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_34058, XS">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02259_X_34058, XXL">
+			<model>РОТОР РОМОНД ТІСТЕРІ</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>8800</price>
+		</offer>
+		<offer sku="ABYZT02255_X_19, L">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="-3"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_19, M">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_19, S">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_19, XL">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_19, XS">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_19, XXL">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_31555, L">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="-2"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_31555, M">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_31555, S">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_31555, XL">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_31555, XS">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_31555, XXL">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_34055, L">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_34055, M">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_34055, S">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_34055, XL">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_34055, XS">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_34055, XXL">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_10, L">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_10, M">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_10, S">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_10, XL">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_10, XS">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="no" storeId="PP1" preOrder="0" stockCount="0"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+		<offer sku="ABYZT02255_X_10, XXL">
+			<model>CRAYON WAVE  TEES</model>
+			<brand>BILLABONG</brand>
+			<availabilities>
+				<availability available="yes" storeId="PP1" preOrder="0" stockCount="1"/>
+			</availabilities>
+			<price>7920</price>
+		</offer>
+	</offers>
+</kaspi_catalog>
